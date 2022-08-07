@@ -1,12 +1,11 @@
 
-<h1>
+<h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<img src="gif.gif" width="320" align="right"  />
-
-## :man_technologist: About Me :
+<img src="gif.gif" width="300" align="right"  />
+<h2 align="center">:man_technologist: About Me :</h2>
 
 - 🔭 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" >
 - 🌱 I’m currently learning Javascript
