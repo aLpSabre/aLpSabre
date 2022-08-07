@@ -57,7 +57,7 @@
 
 <br/>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" />
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" /></div>
 
 
 
