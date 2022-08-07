@@ -4,15 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="left" width="200px">
-<h3>:man_technologist: About Me :</h3>
-  <p>- 🔭 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  </p>
-  <p>- 🌱 I’m currently learning Javascript</p>
-  <p>- 👯 I’m looking to collaborate on the Open Source projects</p>
-  <p>- :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mubeydealpkilic"></p>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a></p>
-</div>
+
 
  <img src="gif.gif" width="200" align="right" />
 
