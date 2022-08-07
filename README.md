@@ -14,7 +14,7 @@
   </a>
 
  
- <img src="gif.gif"  align="right width="100"/>
+ <img src="gif.gif"width="100"/>
 
   
   <div id="badges">
