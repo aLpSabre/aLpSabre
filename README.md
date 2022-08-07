@@ -34,8 +34,9 @@
 ---
 
 ## :fire: My Stats :
-![aLpSabre's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&theme=tokyonight&count_private=true&line_height=29)
- <img  align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" alt="My github stats" />
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+ <img  align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" alt="My github stats" />
 
 
 
