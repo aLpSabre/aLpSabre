@@ -7,6 +7,7 @@
 
 <h2 align="center">:man_technologist: About Me :</h2>
 <img src="gif.gif" width="250" align="right"  />
+
 - 🔭 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" >
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on the Open Source projects
