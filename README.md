@@ -5,10 +5,16 @@
 </h1>
 
 <div align="left">
-<h4>:man_technologist: About Me :</h2>
+<h3>:man_technologist: About Me :</h3>
+  - 🔭 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on the Open Source projects
+- :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mubeydealpkilic">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
- <img src="gif.gif" width="100" align="right" />
+ <img src="gif.gif" width="200" align="right" />
 
 
 ### :man_technologist: About Me :
