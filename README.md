@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="gif.gif" width="300"/>
+  <img src="gif.gif" width="100"/>
 </div>
 
 <div id="badges">
