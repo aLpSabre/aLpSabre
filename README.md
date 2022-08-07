@@ -6,7 +6,7 @@
 
 
 
- <img src="gif.gif" width="250" align="right"  />
+ <img src="gif.gif" width="280" align="right"  />
 
 
 ### :man_technologist: About Me :
