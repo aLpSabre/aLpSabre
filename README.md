@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="right" width="400px">
+<div align="right" width="50%">
   <div id="header" align="center">
   <img src="gif.gif" width="100"/>
 </div>
@@ -19,7 +19,7 @@
 
 
 
-<div align="right" width="400px">
+<div align="right" width="50%">
 ### :man_technologist: About Me :
 
 - 🔭 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
