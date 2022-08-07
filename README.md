@@ -6,7 +6,7 @@
 
 
 
- <img src="gif.gif" width="300" align="right" />
+ <img src="gif.gif" width="280" align="right" />
 
 
 ### :man_technologist: About Me :
@@ -18,8 +18,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <br/>
- 
- <img src="gif.gif" width="100" align="right" />
   
 ---
 
