@@ -13,19 +13,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-
-
-  
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/mubeydealpkilic">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br/>
-</div>
-</div>
-
  
- <img src="gif.gif" width="100" />
+ <img src="gif.gif" width="100" align="right" />
   
 ---
 
