@@ -4,10 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-
- <img src="gif.gif" width="320" align="right"  />
-
+<img src="gif.gif" width="320" align="right"  />
 
 ### :man_technologist: About Me :
 
@@ -15,9 +12,7 @@
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on the Open Source projects
 
-- :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mubeydealpkilic">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" alt="LinkedIn Badge"/>
-  </a>  
+- :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mubeydealpkilic"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" alt="LinkedIn Badge"/> </a>  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -40,14 +35,4 @@
 
 ### :fire: My Stats :
  <img  align="right" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" alt="My github stats" />
-<img  align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-
-
-
-
-
-
-
-
-
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
