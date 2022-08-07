@@ -31,12 +31,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   </div>
 </div>
-
 ---
 
 ## :fire: My Stats :
+![aLpSabre's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&theme=tokyonight&count_private=true&line_height=29)
+ <img  align="right" width="497" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" alt="My github stats" />
 
- <img  align="right" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" alt="My github stats" />
-<img  align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
-[![aLpSabre's GitHub stats](https://github-readme-stats.vercel.app/api?username=aLpSabre)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
