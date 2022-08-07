@@ -43,7 +43,7 @@
 <br/>
 <br/>
 <br/>
-<div align="center"  width="400px" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" /></div>
+<div align="center"  width="400px" margin="10px" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" /></div>
 
 
 
