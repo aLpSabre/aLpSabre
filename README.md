@@ -51,8 +51,9 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aLpSabre&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" width="400px" align="right" /> 
+[![GitHub Streak]<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=aLpSabre&theme=tokyonight" alt="My github stats" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" width="400px"/> 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
