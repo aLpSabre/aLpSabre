@@ -15,7 +15,7 @@
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mubeydealpkilic"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" alt="LinkedIn Badge"/> </a>  
 ---
 <div align="center">
-<h2>:hammer_and_wrench: Languages and Tools :</h2>
+<p>:hammer_and_wrench: Languages and Tools :<p>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
