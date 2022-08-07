@@ -10,7 +10,7 @@
   </a>
   <br/>
    <br/>
-  <img src="https://komarev.com/ghpvc/?username=your-aLpSabre&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=aLpSabre&style=flat-square&color=blue" alt=""/>
 
 </div>
 
@@ -26,7 +26,9 @@
 - 🔭 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on the Open Source projects
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mubeydealpkilic)
+- :mailbox:How to reach me:  <a href="www.linkedin.com/in/mubeydealpkilic">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   
 ---
 
