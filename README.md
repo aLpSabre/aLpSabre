@@ -11,11 +11,11 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🔭 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" >
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on the Open Source projects
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mubeydealpkilic">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="50" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="50" heigth="50" alt="LinkedIn Badge"/>
   </a>  
 ---
 
