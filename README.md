@@ -17,7 +17,7 @@
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mubeydealpkilic">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+<br/>
  
  <img src="gif.gif" width="100" align="right" />
   
