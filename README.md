@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=aLpSabre&style=flat-square&color=blue" alt=""/>
+
 
 </div>
 
@@ -50,9 +50,9 @@
 ---
 
 ### :fire: My Stats :
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=aLpSabre&theme=tokyonight" alt="My github stats" />
+<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=aLpSabre&theme=tokyonight" alt="My github stats" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<img align="right" width="400"  src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 <img align="center" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" />
 
