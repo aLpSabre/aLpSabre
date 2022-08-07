@@ -1,12 +1,12 @@
 
-<h1 align="center">
+<h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<img src="gif.gif" width="350" align="right"  />
 
-<h2 align="center">:man_technologist: About Me :</h2>
-<img src="gif.gif" width="250" align="right"  />
+## :man_technologist: About Me :
 
 - 🔭 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" >
 - 🌱 I’m currently learning Javascript
@@ -15,11 +15,9 @@
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mubeydealpkilic"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" alt="LinkedIn Badge"/> </a>  
 ---
 
-
-<div align="center">
-<h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
-
+<h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div>
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -31,9 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  </div>
 </div>
-<div>
-
 
 ---
 
