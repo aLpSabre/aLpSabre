@@ -52,7 +52,8 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aLpSabre&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> </div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" width="300px" /> 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
