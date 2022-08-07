@@ -14,10 +14,10 @@
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mubeydealpkilic"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" alt="LinkedIn Badge"/> </a>  
 ---
-## :hammer_and_wrench: Languages and Tools :
+
 
 <div align="center">
-<p size="20" font="bold"><p>
+<h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
