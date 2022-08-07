@@ -41,7 +41,7 @@
 <div align="left" width="400" > <img src="https://github-readme-streak-stats.herokuapp.com?user=aLpSabre&theme=tokyonight" alt="My github stats" />
 </div>
 
-<divalign="right" width="400"><img   src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> </div>
+<div align="right" width="400"><img   src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> </div>
 
 <div align="center"  width="400px"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" /></div>
 
