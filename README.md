@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<img src="gif.gif" width="350" align="right"  />
+<img src="gif.gif" width="300" align="right"  />
 
 ## :man_technologist: About Me :
 
