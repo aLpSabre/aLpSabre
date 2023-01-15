@@ -33,12 +33,6 @@
 </div>
 
 
-## :fire: My Stats :
-
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=aLpSabre&show_icons=true&theme=tokyonight" alt="My github stats" /> 
-
- <img  align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpSabre&layout=compact&aLpSabre&theme=tokyonight" alt="My github stats" />
-
 
 
 
