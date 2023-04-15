@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on the Open Source projects
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/mubeydealpkilic"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20" alt="LinkedIn Badge"/> </a>  
----
+
 
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div>
