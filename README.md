@@ -32,31 +32,31 @@
   </div>
 </div>
 
-<h2>:hammer_and_wrench: Projects :</h2>
+<h2>💻 Projects :</h2>
 <h4>●   React Recipe App (The World`s Food):</h4>
 <p> In this project, it is aimed to create a responsive Recipe app using mainly React and Context API. Users can search for each recipe using its own name or product name, filter the results, view their last selections in the form and the recipe results on their next visit even without an account, sign up and log in. With their account they also can save the recipes and display them by their account, see their last movements at the page on their next visit, view their own personal information, change, or reset their password. Tools: HTML5, CSS, Styled Components, MUI, React JS, Context API, Local Storage, React Router, Firebase Authentication, Firestore, React Spinners, React Lazy Load, Dotenv, Netlify.</p>
 
 - Solution URL: [click here.](https://github.com/aLpSabre/React-Recipe-App)
 - Live Site URL: [click here.](https://theworldsfood.netlify.app/)
   
-<h4>●   Manage Landing Page:</h4>
+<h4>●   Manage Landing Page :</h4>
 <p>In this project, it is aimed to create a responsive landing page using React and SCSS. Users can display hover states for all interactive elements on the page, view all testimonials in a horizontal slider made with Switch JS, receive an error message when submitting the newsletter signup form if: The input field is empty, or the email address is not formatted correctly. Tools: HTML, SASS/SCSS, SCSS Modules, React, Switch JS.</p>
   
 - Solution URL: [click here](https://github.com/aLpSabre/manage-landing-page)
 - Live Site URL: [click here](https://alpsabre.github.io/manage-landing-page/)
 
-<h4>●   IP Address Tracker:</h4>
+<h4>●   IP Address Tracker :</h4>
 <p>  In this project, it is aimed to create an Ip Address Tracker using mainly Vanilla JS and Fetch API. Users can see their own IP address on the map and the instructions about the app on their first visit, search for any IP addresses or domains in IPv4 and IPv6 formats, and see the key information and location, see the IP addresses they have previously searched on the website, see the information about the markers on click and delete the markers. Tools: HTML, CSS, Bootstrap, Flexbox, DOM, Callback-Functions, JS Events, Async- Functions, Fetch, Leaflet JS Library, APIs, Sweet Alert.</p>
   
 - Solution URL: [click here.](https://github.com/aLpSabre/IP-Adress-Tracker)
 - Live Site URL: [click here.](https://ip-trackerr.netlify.app/)
    
-<h4>●  	Shorten-URL:</h4>
+<h4>●  	Shorten-URL :</h4>
 <p>  In this project, it is aimed to create a responsive Shorten URL app using mainly Vanilla JS and Fetch API. Users can shorten any valid URL, see a list of shortened links even after refreshing the browser, copy the shortened link to the clipboard with a single click, receive an error message when submitting the form if: the input field is empty, the input is invalid or the input is already searched, not search for a link if it has already been displayed on the page.  Tools: HTML, CSS, Bootstrap, Flexbox, DOM, Callback-Functions, JS Events, Async- Functions, Fetch, APIs.</p>
 
 - Solution URL: [Click here](https://github.com/aLpSabre/Shorten-URL)
 - Live Site URL: [Click here](https://alpsabre.github.io/Shorten-URL/)
-<h4>●  Chat-app Illustration:</h4>
+<h4>●  Chat-app Illustration :</h4>
 <p> The aim of this project is creating a responsive illustration page using only HTML and CSS. Tools: HTML, SASS/SCSS, Flexbox. </p>
   
 - Solution URL: [Solution URL here](https://github.com/aLpSabre/Frontend-Mentor-Projects/tree/main/chat-app-css-illustration-master)
