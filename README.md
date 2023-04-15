@@ -56,7 +56,6 @@
 
 - Solution URL: [Click here](https://github.com/aLpSabre/Shorten-URL)
 - Live Site URL: [Click here](https://alpsabre.github.io/Shorten-URL/)
--  
 <h4>●  Chat-app Illustration:</h4>
 <p> The aim of this project is creating a responsive illustration page using only HTML and CSS. Tools: HTML, SASS/SCSS, Flexbox. </p>
   
