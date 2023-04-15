@@ -54,13 +54,13 @@
 <h4>●  	Shorten-URL :</h4>
 <p>  In this project, it is aimed to create a responsive Shorten URL app using mainly Vanilla JS and Fetch API. Users can shorten any valid URL, see a list of shortened links even after refreshing the browser, copy the shortened link to the clipboard with a single click, receive an error message when submitting the form if: the input field is empty, the input is invalid or the input is already searched, not search for a link if it has already been displayed on the page.  Tools: HTML, CSS, Bootstrap, Flexbox, DOM, Callback-Functions, JS Events, Async- Functions, Fetch, APIs.</p>
 
-- Solution URL: [Click here](https://github.com/aLpSabre/Shorten-URL)
-- Live Site URL: [Click here](https://alpsabre.github.io/Shorten-URL/)
+- Solution URL: [click here](https://github.com/aLpSabre/Shorten-URL)
+- Live Site URL: [click here](https://alpsabre.github.io/Shorten-URL/)
 <h4>●  Chat-app Illustration :</h4>
 <p> The aim of this project is creating a responsive illustration page using only HTML and CSS. Tools: HTML, SASS/SCSS, Flexbox. </p>
   
-- Solution URL: [Solution URL here](https://github.com/aLpSabre/Frontend-Mentor-Projects/tree/main/chat-app-css-illustration-master)
-- Live Site URL: [Live site URL here](https://alpsabre.github.io/Frontend-Mentor-Projects/chat-app-css-illustration-master/)
+- Solution URL: [click here.](https://github.com/aLpSabre/Frontend-Mentor-Projects/tree/main/chat-app-css-illustration-master)
+- Live Site URL: [click here.](https://alpsabre.github.io/Frontend-Mentor-Projects/chat-app-css-illustration-master/)
 
 
 
