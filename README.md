@@ -50,7 +50,7 @@
   
 - Solution URL: [click here.](https://github.com/aLpSabre/IP-Adress-Tracker)
 - Live Site URL: [click here.](https://ip-trackerr.netlify.app/)
--   
+   
 <h4>●  	Shorten-URL:</h4>
 <p>  In this project, it is aimed to create a responsive Shorten URL app using mainly Vanilla JS and Fetch API. Users can shorten any valid URL, see a list of shortened links even after refreshing the browser, copy the shortened link to the clipboard with a single click, receive an error message when submitting the form if: the input field is empty, the input is invalid or the input is already searched, not search for a link if it has already been displayed on the page.  Tools: HTML, CSS, Bootstrap, Flexbox, DOM, Callback-Functions, JS Events, Async- Functions, Fetch, APIs.</p>
 
