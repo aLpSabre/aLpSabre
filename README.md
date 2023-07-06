@@ -8,7 +8,7 @@
 
 ## :man_technologist: About Me :
 
-- 🔭 I am Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" >
+- 🔭 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" >
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on the Open Source projects
 
